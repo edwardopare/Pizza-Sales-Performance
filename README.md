@@ -48,9 +48,7 @@ To prepare the data for analysis, the following steps were taken in **Power Quer
    * Four sheets (`orders`, `order_details`, `pizzas`, and `pizza_types`) were merged using primary and foreign keys.
    * Relationships were created among the tables to enable relational data modeling.
   
- ## 🧩 Entity Relationship Diagram
 
-![Data Model](./Data%20Modelling%20.png) 
 
 2. **Column Cleanup**:
 
@@ -65,6 +63,11 @@ To prepare the data for analysis, the following steps were taken in **Power Quer
 4. **Calculated Columns**:
 
    * Created new calculated fields like `Total Revenue`, `Avg Price`, and `Total Quantity` for further analysis.
+  
+
+ ## 🧩 Entity Relationship Diagram
+
+![Data Model](./Data%20Modelling%20.png) 
 
 ---
 
