@@ -1,7 +1,3 @@
-Here’s your updated **Pizza Sales Performance Analysis Report** with a **Table of Contents** added for easy navigation. This is especially helpful for GitHub README files:
-
----
-
 # 🍕 Pizza Sales Performance Analysis 📊
 
 ## 📚 Table of Contents
@@ -57,6 +53,10 @@ To prepare the data for analysis, the following steps were taken in **Power Quer
 
    * Four sheets (`orders`, `order_details`, `pizzas`, and `pizza_types`) were merged using primary and foreign keys.
    * Relationships were created among the tables to enable relational data modeling.
+  
+ ## 🧩 Entity Relationship Diagram
+
+![Data Model](./Data%20Modelling%20.png) 
 
 2. **Column Cleanup**:
 
@@ -66,7 +66,7 @@ To prepare the data for analysis, the following steps were taken in **Power Quer
 3. **Data Type Correction**:
 
    * Converted `date` and `time` columns to appropriate data types.
-   * Ensured numeric fields like `price`, `quantity`, and `revenue` were formatted correctly.
+   * Ensured fields were formatted correctly.
 
 4. **Calculated Columns**:
 
@@ -148,10 +148,8 @@ To prepare the data for analysis, the following steps were taken in **Power Quer
 
 ---
 
-## 🧩 Entity Relationship Diagram
 
-![Data Model](./Data%20Modelling%20.png)
 
----
+
 
 
