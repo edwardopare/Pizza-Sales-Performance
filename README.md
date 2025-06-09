@@ -2,30 +2,23 @@
 
 ## 📚 Table of Contents
 
-1. [Project Description](#project-description)
-2. [Introduction](#introduction)
-3. [Objective](#objective)
-4. [Data Preparation & Cleaning](#data-preparation--cleaning)
-5. [Entity Relationship Diagram](#entity-relationship-diagram)
-6. [Analysis & Visualization](#analysis--visualization)
+1. [Introduction](#introduction)
+2. [Objective](#objective)
+3. [Data Preparation & Cleaning](#data-preparation--cleaning)
+4. [Entity Relationship Diagram](#entity-relationship-diagram)
+5. [Analysis & Visualization](#analysis--visualization)
 
    * [Daily Customers & Peak Hours](#1-how-many-customers-do-we-have-each-day-any-peak-hours)
    * [Order Sizes & Bestsellers](#2-how-many-pizzas-are-typically-in-an-order-bestsellers)
    * [Revenue & Seasonality](#3-how-much-money-did-we-make-this-year-seasonality)
    * [Menu Optimization](#4-should-we-remove-or-promote-certain-pizzas)
-7. [Key Insights & Conclusions](#key-insights--conclusions)
-8. [Strategic Data Recommendations](#strategic-data-recommendations)
-9. [Tools Used](#tools-used)
-10. [Project Dashboard](#project-dashboard)
+6. [Key Insights & Conclusions](#key-insights--conclusions)
+7. [Strategic Data Recommendations](#strategic-data-recommendations)
+8. [Tools Used](#tools-used)
+9. [Project Dashboard](#project-dashboard)
 
 
 ---
-
-## 📄 Project Description
-
-This project is a comprehensive sales performance analysis for a pizza business using Microsoft Excel. The dataset includes detailed information on pizza types, individual orders, order details, and pricing. This analysis aimed to uncover insights into customer purchasing behavior, identify best-selling and underperforming pizzas, track revenue trends over time, and provide strategic recommendations to enhance sales.
-
-By leveraging Excel’s Power Query and Pivot Tables, I cleaned, merged, and analyzed the data to answer key business questions. The final output is an interactive dashboard that visualizes sales trends, revenue breakdowns, customer order patterns, and product performance. This project demonstrates strong data modeling, transformation, and storytelling skills using Excel, all packaged into an insightful business intelligence report.
 
 ---
 
@@ -116,7 +109,7 @@ To prepare the data for analysis, the following steps were taken in **Power Quer
   * "Classic" pizzas lead with over **14.5K** orders.
 * **Pizza Size Impact**:
 
-  * **Large (L)** pizzas dominate revenue (45.8% share), followed by **Medium (M)** and **Extra Large (XL)**.
+  * **Large (L)** pizzas dominate revenue (45.8% share), followed by **Medium (M)** and **Small (S)**.
 * **Order Behavior**:
 
   * Most orders spike on **weekends and Fridays**, confirming predictable peak business periods.
