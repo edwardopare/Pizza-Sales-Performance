@@ -1,6 +1,6 @@
-# 🍕 Pizza Sales Performance Analysis 📊
+# 🍕 Pizza Sales Performance Analysis 
 
-## 📚 Table of Contents
+##  Table of Contents
 
 1. [Introduction](#introduction)
 2. [Objective](#objective)
@@ -15,20 +15,20 @@
 6. [Key Insights & Conclusions](#key-insights--conclusions)
 7. [Strategic Data Recommendations](#strategic-data-recommendations)
 8. [Tools Used](#tools-used)
-9. [Project Dashboard](#project-dashboard)
+9. [ Dashboard](#project-dashboard)
 
 
 ---
 
 ---
 
-## 📌 Introduction
+##  Introduction
 
 In this project, I performed an in-depth sales performance analysis for a pizza business using Microsoft Excel. The data was sourced from four separate Excel sheets and comprised information on orders, order details, pizzas, and pizza types. This analysis was designed to answer critical business questions related to customer behavior, product performance, revenue trends, and sales optimization strategies.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The primary objective of this project was to:
 
@@ -39,7 +39,7 @@ The primary objective of this project was to:
 
 ---
 
-## 🧹 Data Preparation & Cleaning
+## Data Preparation & Cleaning
 
 To prepare the data for analysis, the following steps were taken in **Power Query**:
 
@@ -65,13 +65,13 @@ To prepare the data for analysis, the following steps were taken in **Power Quer
    * Created new calculated fields like `Total Revenue`, `Avg Price`, and `Total Quantity` for further analysis.
   
 
- ## 🧩 Entity Relationship Diagram
+ ##  Entity Relationship Diagram
 
 ![Data Model](./Data%20Modelling%20.png) 
 
 ---
 
-## 📈 Analysis & Visualization
+##  Analysis & Visualization
 
 ### 1. **How many customers do we have each day? Any peak hours?**
 
@@ -105,7 +105,7 @@ To prepare the data for analysis, the following steps were taken in **Power Quer
 
 ---
 
-## 🧠 Key Insights & Conclusions
+##  Key Insights & Conclusions
 
 * **Category Performance**:
 
@@ -119,7 +119,7 @@ To prepare the data for analysis, the following steps were taken in **Power Quer
 
 ---
 
-## 💡 Strategic Data Recommendations
+##  Strategic Data Recommendations
 
 1. **Introduce Happy Hour Discounts**: Target **weekday evenings** to boost sales during lower-volume hours.
 2. **Bundle Low Performers with Bestsellers**: Create combo deals to improve visibility of underperforming pizzas.
@@ -129,7 +129,7 @@ To prepare the data for analysis, the following steps were taken in **Power Quer
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * **Microsoft Excel**
 
@@ -139,7 +139,7 @@ To prepare the data for analysis, the following steps were taken in **Power Quer
 
 ---
 
-## 📷 Dashboard
+##  Dashboard
 
 ![Pizza Sales Dashboard](./dashboard.PNG)
 
