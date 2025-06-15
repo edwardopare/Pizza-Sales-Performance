@@ -97,7 +97,7 @@ To prepare the data for analysis, the following steps were taken in **Power Quer
 
 ### 4. **Should we remove or promote certain pizzas?**
 
-* **Bottom 5 Performers** (e.g., The Brie Carre Pizza with 11,588 orders) may be considered for:
+* **Bottom 5 Performers** The Brie Carre Pizza with 11,588 orders may be considered for:
 
   * **Menu removal**
   * **Promotional offers**
